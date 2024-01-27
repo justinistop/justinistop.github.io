@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Zhishang Liu"
 title_separator          : "-"
-name                     : &name "Zhishang Liu"
+name                     : &name "Dr. Zhishang Liu"
 description              : &description ""
 url                      : https://justinistop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
